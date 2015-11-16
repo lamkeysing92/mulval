@@ -1,0 +1,6 @@
+#Remove generated files
+**.class
+
+#Remove all testcases but the sample ones
+!testcases/3host
+!testcases/h2v1s5.P
